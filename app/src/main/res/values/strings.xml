@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticakTest01Var03</string>
+    <string name="zero">zero</string>
+    <string name="plus">+</string>
+    <string name="minus">minus</string>
+    <string name="navigate_to_secondary_activity">navigate_to_secondary_activity</string>
+    <string name="minuss">-</string>
+</resources>
