@@ -5,4 +5,6 @@
     <string name="minus">minus</string>
     <string name="navigate_to_secondary_activity">navigate_to_secondary_activity</string>
     <string name="minuss">-</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
 </resources>
